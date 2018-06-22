@@ -50,7 +50,7 @@ the <> should be inside the doble underscores for bold!!!!_)
 
 ## 2 [youtube](https://www.youtube.com "text can be passed only in this way of linking.")
 
-### 3 [youtube]         [y]
+### 3 [youtube](https://www.youtube.com)
 
 [y]: https://www.youtube.com
 
