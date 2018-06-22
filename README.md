@@ -89,6 +89,7 @@ img {
     * Sub1.2.1
 
       a para under sub1.2.1
+      
       ![alternate text](http://unsplash.it/500/500?random "an img under sub1.2.1")
 
 
